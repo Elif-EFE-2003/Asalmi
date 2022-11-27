@@ -1,4 +1,5 @@
-# Auto detect text files and perform LF normalization
+#include <stdio.h>
+#include <stdlib.h>
 * text=auto
 int asalmi(int a){
  	int i;
